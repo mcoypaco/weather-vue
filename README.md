@@ -9,4 +9,4 @@ A simple application that allows users get weather information based on the sele
 - [Firebase](https://firebase.google.com/)
 
 ## Powered By
-- (OpenWeather)[https://openweathermap.org/]
+- [OpenWeather](https://openweathermap.org/)
